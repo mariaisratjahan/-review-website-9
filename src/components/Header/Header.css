@@ -1,0 +1,18 @@
+.header-container{
+    background-color: rgb(254, 255, 254);
+    padding: 20px;
+    box-shadow: 1px 1px 5px rgb(56, 55, 55);
+}   
+.nav-text{
+    color: rgb(143, 141, 135);
+    font-size: 22px;
+    text-decoration: none;
+    margin-left: 30px;
+    font-weight: bold;
+    padding: 10px 15px;
+
+}
+.nav-text:hover{
+    background-color: rgb(218, 211, 203);
+    border-radius: 10px;
+}

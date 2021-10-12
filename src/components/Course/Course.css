@@ -1,0 +1,14 @@
+.card-container{
+    padding: 30px;
+   
+}
+.cards{
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    border: 1px solid rgb(0, 162, 255);
+    box-shadow: 1px 1px 20px rgba(116, 168, 245, 0.979);
+}
+.btn-text{
+    font-size: 20px;
+    font-weight: 700;
+}

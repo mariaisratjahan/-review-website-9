@@ -1,0 +1,25 @@
+[
+    {
+      "id": 1,
+      "courseName": "German",
+      "price": "$8.23",
+      "image": "https://st2.depositphotos.com/1092019/8634/i/950/depositphotos_86342176-stock-photo-learn-german-concept-hand-drawn.jpg"
+    },
+    {
+      "i": 2,
+      "courseName": "Hindi",
+      "price": "$7.09",
+      "image": "https://thumbs.dreamstime.com/z/learn-hindi-education-business-background-concept-cloud-coming-screen-phone-books-desk-127244635.jpg"
+    },
+    {
+      "id": 3,
+      "courseName": "Croatian",
+      "price": "$3.60",
+      "image": "https://thumbs.dreamstime.com/z/learn-croatian-language-sign-flag-157450977.jpg"
+    },
+    {
+      "id": 4,
+      "courseName": "Maltese",
+      "price": "$5.35",
+      "image": "https://store.instantimmersion.com/media/wysiwyg/pages/7lang/Maltese-Language-Learning-Software.png"
+    }]
